@@ -2,3 +2,7 @@
 
 contenuto iniziale del primo documento.
 contenuto addizionale al primo documento.
+
+# terzo documento
+
+perfavore, per il terzo doc si faccia riferimento a file3.txt
